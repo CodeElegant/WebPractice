@@ -1,0 +1,17 @@
+{
+  "name": "TEMPLATE",
+  "version": "1.0.0",
+  "description": "TEMPLATE",
+  "main": "bin/server",
+  "scripts": {
+    "start": "node bin/server"
+  },
+  "author": "Howard Bates",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "latest",
+    "formidable": "latest",
+    "nedb": "latest",
+    "node-fetch": "latest"
+  }
+}
